@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1781250418563",
+    "name": "куцк",
+    "color": "#4361ee",
+    "description": "куццук",
+    "deadline": "2026-06-13",
+    "userId": "1780999724560",
+    "lastActivity": "2026-06-12T07:57:50.241Z",
+    "createdAt": "2026-06-12T07:46:58.563Z",
+    "completed": true
+  },
+  {
+    "id": "1781252285161",
+    "name": "zx",
+    "color": "#4361ee",
+    "description": "xz",
+    "deadline": null,
+    "userId": "1780999724560",
+    "completed": true,
+    "completedAt": null,
+    "lastActivity": "2026-06-12T08:18:05.161Z",
+    "createdAt": "2026-06-12T08:18:05.161Z"
+  },
+  {
+    "id": "1781252650861",
+    "name": "das",
+    "color": "#4361ee",
+    "description": "dsa",
+    "deadline": "2026-06-05",
+    "userId": "1780999724560",
+    "completed": true,
+    "completedAt": "2026-06-12T08:24:14.058Z",
+    "lastActivity": "2026-06-12T08:24:10.861Z",
+    "createdAt": "2026-06-12T08:24:10.861Z"
+  },
+  {
+    "id": "1781252687698",
+    "name": "dsadsa",
+    "color": "#4361ee",
+    "description": "dsadsa",
+    "deadline": "2026-06-20",
+    "userId": "1780999724560",
+    "completed": true,
+    "completedAt": "2026-06-12T10:29:56.679Z",
+    "lastActivity": "2026-06-12T08:25:03.918Z",
+    "createdAt": "2026-06-12T08:24:47.698Z"
+  }
+]
